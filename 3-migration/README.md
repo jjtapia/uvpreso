@@ -39,3 +39,7 @@ uv pip install --system pandas
 ```
 
 This is useful when doing Dockerfile isntallations
+
+## uv with jupyter notebooks
+
+https://docs.astral.sh/uv/guides/integration/jupyter/
